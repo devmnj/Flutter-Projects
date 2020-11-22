@@ -1,3 +1,12 @@
 [submodule "Flutter-Kitchen-Cart"]
 	path = Flutter-Kitchen-Cart
 	url = https://github.com/manojap/Flutter-Kitchen-Cart
+[submodule "project_planner"]
+	path = project_planner
+	url = https://github.com/manojap/project_planner
+[submodule "Hivedb-Flutter-Todo"]
+	path = Hivedb-Flutter-Todo
+	url = https://github.com/manojap/Hivedb-Flutter-Todo
+[submodule "flutter_c19dashboard"]
+	path = flutter_c19dashboard
+	url = https://github.com/manojap/flutter_c19dashboard
